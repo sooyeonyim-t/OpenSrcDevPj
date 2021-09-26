@@ -25,9 +25,5 @@ public class Book2 {
         Book2 bible=new Book2("Bible");
         Book2 emptyBook=new Book2();
         bible.show();
-
-        bible.show();
-
-
     }
 }
