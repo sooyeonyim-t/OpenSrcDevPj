@@ -15,7 +15,7 @@ class Dictionary{
         return (word + "는 저의 사전에 없습니다.");
     }
 }
-public class DicApp {
+public class DicApp_10 {
     public static void main(String[] args) {
 
         Scanner scanner=new Scanner(System.in);

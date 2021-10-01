@@ -20,7 +20,7 @@ class Circle {
     }
 }
 
-public class CircleManager {
+public class CircleManager_06 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
 

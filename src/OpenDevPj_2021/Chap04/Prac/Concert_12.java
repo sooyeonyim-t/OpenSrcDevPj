@@ -202,7 +202,7 @@ class Cancle {
 }
 
 
-public class Concert {
+public class Concert_12 {
     static String S[]=new String[10];
     static String A[]=new String[10];
     static String B[]=new String[10];

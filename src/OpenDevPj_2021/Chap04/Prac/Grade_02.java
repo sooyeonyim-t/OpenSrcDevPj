@@ -2,12 +2,12 @@ package OpenDevPj_2021.Chap04.Prac;
 
 import java.util.Scanner;
 
-public class Grade {
+public class Grade_02 {
     private int math;
     private int science;
     private int english;
 
-    public Grade(int m,int s,int e){
+    public Grade_02(int m, int s, int e){
         math=m;
         science=s;
         english=e;
@@ -25,7 +25,7 @@ public class Grade {
         int science=scanner.nextInt();
         int english=scanner.nextInt();
 
-        Grade me=new Grade(math,science,english);
+        Grade_02 me=new Grade_02(math,science,english);
 
         System.out.println("평균은 "+me.average());
 
