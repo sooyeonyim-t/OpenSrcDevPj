@@ -1,6 +1,6 @@
 package OpenDevPj_2021.Chap04.EX;   //예제[4-8]
 
-public class ArrayparameterEx {
+public class ArrayparameterEx_08 {
     static void replaceSpace(char a[]){
         for(int i=0;i<a.length;i++){
             if(a[i]==' '){

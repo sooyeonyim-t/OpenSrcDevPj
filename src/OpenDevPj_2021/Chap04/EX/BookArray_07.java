@@ -10,7 +10,7 @@ class Book3 {
     }
 }
 
-public class BookArray {
+public class BookArray_07 {
     public static void main(String[] args) {
         Book3[] book = new Book3[2];
 

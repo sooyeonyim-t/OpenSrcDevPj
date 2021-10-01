@@ -5,7 +5,7 @@ class Sample{
     private  int b;
     int c;
 }
-public class AccessEx {
+public class AccessEx_10 {
     public static void main(String[] args) {
         Sample aClass=new Sample();
         aClass.a=10;

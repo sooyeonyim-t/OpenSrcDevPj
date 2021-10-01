@@ -9,7 +9,7 @@ class Circle3 {
         return 3.14*radius*radius;
     }
 }
-public class CircleArray {
+public class CircleArray_06 {
     public static void main(String[] args) {
         Circle3 [] c;
         c = new Circle3[5];

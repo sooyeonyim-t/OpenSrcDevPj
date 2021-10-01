@@ -1,14 +1,14 @@
 package OpenDevPj_2021.Chap04.EX;
 
-public class Circle2 {
+public class Circle2_03 {
     int radius;
     String name;
 
-    public Circle2(){
+    public Circle2_03(){
         radius=1;
         name="";
     }
-    public Circle2(int r,String n){
+    public Circle2_03(int r, String n){
         radius=r;
         name=n;
     }
@@ -17,12 +17,12 @@ public class Circle2 {
     }
 
     public static void main(String[] args) {
-        Circle2 pizza=new Circle2(10,"자바피자");
+        Circle2_03 pizza=new Circle2_03(10,"자바피자");
 
         double area=pizza.getArea();
         System.out.println(pizza.name+"의 면적은"+area);
 
-        Circle2 donut=new Circle2();
+        Circle2_03 donut=new Circle2_03();
         donut.name="도넛피자";
         area=donut.getArea();
         System.out.println(donut.name+"의 면적은"+area);

@@ -15,7 +15,7 @@ class CurrencyConverter{
     }
 }
 
-public class StaticMember {
+public class StaticMember_12 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         System.out.print("환율(1달러)>>");

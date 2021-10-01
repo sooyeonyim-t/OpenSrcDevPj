@@ -1,6 +1,6 @@
 package OpenDevPj_2021.Chap04.EX;
 import java.util.Scanner;
-public class Rectangle {
+public class Rectangle_02 {
     int width;
     int height;
 
@@ -9,7 +9,7 @@ public class Rectangle {
     }
 
     public static void main(String[] args) {
-        Rectangle rect=new Rectangle();
+        Rectangle_02 rect=new Rectangle_02();
         Scanner scanner=new Scanner(System.in);
         System.out.print(">>");
 
