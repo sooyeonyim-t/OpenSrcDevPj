@@ -20,9 +20,10 @@ public class ArrayListEx_03 {
             if(a.get(longestIndex).length()<a.get(i).length()){
                 longestIndex=i;
             }
-            System.out.println("\n가장 긴 이름은 : "+a.get(longestIndex));
 
         }
+
+        System.out.println("\n가장 긴 이름은 : "+a.get(longestIndex));
         sc.close();
     }
 }
