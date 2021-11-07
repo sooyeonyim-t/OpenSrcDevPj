@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/OpenDevPj_2021/Chap03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/OpenDevPj_2021/Chap03/prac" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/OpenDevPj_2021/Chap03/prac/OpenSrcDevPj" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/OpenSrcDevPj" vcs="Git" />
+  </component>
+</project>
